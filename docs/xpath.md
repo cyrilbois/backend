@@ -70,6 +70,7 @@ Playground
 While there are a few playgrounds (tester/sandbox) out there :
 - https://www.freeformatter.com/xpath-tester.html
 - http://www.xpathtester.com/xpath
+- https://extendsclass.com/xpath-tester.html
 
 They might not work for all you webpages HTML.
 
